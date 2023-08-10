@@ -16,4 +16,5 @@ We use historical 12 time steps' traffic flows (1 hour) to predict next 12 time 
     python Mains.py --data PeMSD8
     python Mains.py --data PeMSD3
     python Mains.py --data PeMSD7
+    python Mains.py --data PeMSBAY
 Then you can run the code following the order.
