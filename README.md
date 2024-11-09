@@ -1,6 +1,6 @@
 # Efficient Traffic Prediction through Spatio-Temporal Distillation #
 This is the implementation of Efficient Traffic Prediction through Spatio-Temporal Distillation:
-# **Revised version of LightST: https://anonymous.4open.science/r/LightST-43EB/LightST_Revised_Version.pdf**
+# **Revised version of LightST: https://anonymous.4open.science/r/LightST-43EB/LightST_Revised_Version.pdf (or click the pdf on the left panel)**
 ## Requirements ##
 Pytorch = 1.12.1, python = 3.9.13
 
